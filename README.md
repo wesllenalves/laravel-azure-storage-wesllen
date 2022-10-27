@@ -80,8 +80,3 @@ To enable the retry middewalre, add a `retry` directive to the disk's configurat
         ],
 ```
 
-# Support policy
-
-This package is supported on the current Laravel LTS version, and any later versions. If you are using an older Laravel version, it may work, but I offer no guarantees, nor will I accept pull requests to add this support.
-
-By extension, as the current Laravel LTS version required PHP 7.0 or greater, I don't test it against PHP < 7, nor will I accept any pull requests to add this support.
